@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+<head>
+          <!-- Renderiza caracteres especiais corretamente -->
+          <meta charset= "UTF-8">
+
+          <!-- permite reconhecer quando aberto em tela menor -->
+          <meta name="viewport" content="widyh=device-width,initial-scale=1.0"> 
+          <title>Baby Draco (feat. Vk Mac, Leozin)</title>
+          <!-- Exemplo de uso do SEO
+          "Search Engine Optimization"
+          técnicas para melhorar o posicionamento nos resultados de busca no Google -->
+
+</head> 
+<body>
+           <img src="img/topo.png" alt="Topo da página">
+           <p>página inicial >> trap >> Derek >> Baby Draco </p>
+
+           <img src="img/anuncio.png" alt=Banner de propaganda">
+           
+
+           <p>
+           <img scr="img/DEREK.png" alt="foto do cantor"> 
+           Baby Draco 
+           <p>DEREK</p>
+	</p>
+</body>
+</html>
+
+          
