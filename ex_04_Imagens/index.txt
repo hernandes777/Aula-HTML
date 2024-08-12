@@ -1,13 +1,16 @@
-<!DOCTYPE html
+<!DOCTYPE html>
 <html>
 	<head>
-		<title>Inserindo imagens</title>
+		<title>Exemplo de links</title>
 	</head>
-	<body>
-		<p>Inserir imagem local: </p>
-		<img src="mc-ig.4mjpg.jpg" alt="mc ig">
+	<body>	
 		
-		<p>Inserir imagem via link: </p>
-		<img src="https://www.vagalume.com.br/mc-ig/" alt="Artista 4m">
-	<body>
+		<p>link para envio de email</p>
+		<p><a href="mailto:juao.cleber@gmail.com">enviar email</a></p>
+	
+		<p>inserir imagem usando link</p>
+		<a href="https://www.google.com.br/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fge.globo.com%2Fsp%2Fsantos-e-regiao%2Ffutebol%2Ftimes%2Fsantos%2Fnoticia%2F2023%2F12%2F12%2Fneymar-no-santos-como-clube-se-reaproxima-de-idolo-busca-receitas-e-mira-retorno-no-futuro.ghtml&psig=AOvVaw2LnXmGqrhfISv76vigLqH_&ust=1723051353312000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiK1NHw4IcDFQAAAAAdAAAAABAE"></a>
+	
+	</body>
+
 </html>
